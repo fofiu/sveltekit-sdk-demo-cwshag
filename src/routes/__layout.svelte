@@ -6,7 +6,7 @@
   import Teaser from '../components/Teaser.svelte';
 
   storyblokInit({
-    accessToken: "OurklwV5XsDJTIE1NJaD2wtt",
+    accessToken: "ee2xRKlrT1FNHg0A10Z1Qwtt",
     use: [apiPlugin],
     components: {
       feature: Feature,
